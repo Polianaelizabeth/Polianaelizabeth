@@ -1,4 +1,4 @@
-Dev backend em desenvolvimento
+Dev em desenvolvimento
 
 # Olá! Eu sou a Poliana Elizabeth
 
