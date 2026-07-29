@@ -6,8 +6,8 @@ Seja muito bem-vindo(a) ao meu perfil no GitHub!
 
 ## Sobre mim
 
-- Estudante de **Desenvolvimento Back End**;
-- Focada em **JavaScript**, **Node.js** com **Express** e **MySQL**;
+- Estudante de **Desenvolvimento Back End** e **Análise de dados**;
+- Focada em **python** e **MySQL**;
 - Tenho uma base de **Front End** com **HTML**, **CSS** e **JavaScript**;
 - Gosto de aprender novas tecnologias e compartilhar meu conhecimento.
 
@@ -15,17 +15,15 @@ Seja muito bem-vindo(a) ao meu perfil no GitHub!
 
 [![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![MySQL Badge](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)]()
-[![Node.js Badge](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)]()
-[![Express.js Badge](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)]()
 [![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)]()
 [![HTML5 Badge](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)]()
 [![CSS3 Badge](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)]()
 
 ## O que estou fazendo
 
-- Aprofundando meus estudos em **Node.js** e **Express**;
+- Aprofundando meus estudos em **análise de dados**, **IA** e **python**;
 - Trabalhando em projetos pessoais para praticar e melhorar minhas habilidades;
-- Aprendendo mais sobre **Boas Práticas** de código, organização de projetos e **Design de APIs**;
+- Aprendendo mais sobre **Boas Práticas** de código, organização de projetos.
 - Explorando **Testes Automatizados** e ferramentas de integração contínua.
 
 ## Projetos em destaque
