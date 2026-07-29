@@ -13,6 +13,7 @@ Seja muito bem-vindo(a) ao meu perfil no GitHub!
 
 ## Tecnologias & Ferramentas
 
+[![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![MySQL Badge](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)]()
 [![Node.js Badge](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)]()
 [![Express.js Badge](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)]()
